@@ -3,4 +3,4 @@
 
 user register, login, search words, add to notes
 
-![alt text](mig/屏幕快照 2021-05-13 下午8.31.47.png)
+![alt text](/img/1.png)
